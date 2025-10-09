@@ -57,12 +57,6 @@ Outside of coding, you’ll find me exploring **cloud technologies, digital tool
 
 ---
 
-## 🏆 GitHub Trophies  
-
-![trophy](https://github-profile-trophy.vercel.app/?username=JeffiProgrammer&theme=radical&no-frame=false&no-bg=false&margin-w=4)  
-
----
-
 ## 📫 How to Reach Me  
 
 [![Email](https://img.shields.io/badge/Email-fx.ranjbaran%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fx.ranjbaran@gmail.com)  
