@@ -30,7 +30,7 @@ Outside of coding, you’ll find me exploring **cloud technologies, digital tool
 ## 💻 Technologies
 
 <p>
-    <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/react/react-original.svg" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/redux/redux-original.svg" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/typescript/typescript-original.svg" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/javascript/javascript-original.svg" width="40" height="40"/>
@@ -64,9 +64,5 @@ Outside of coding, you’ll find me exploring **cloud technologies, digital tool
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Masoud%20Ranjbaran-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/masoud-ranjbaran-78b478117/)
 
 ---
-
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
 
 ⭐️ _Always learning, always building — let’s collaborate!_
