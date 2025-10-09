@@ -64,4 +64,8 @@ Outside of coding, you’ll find me exploring **cloud technologies, digital tool
 
 ---
 
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
 ⭐️ *Always learning, always building — let’s collaborate!*  
