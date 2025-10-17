@@ -1,6 +1,6 @@
 # Hi, I'm Masoud 👋
 
-🚀 Full-Stack Developer | Java, TypeScript & PLM Solutions | Building Scalable Systems
+🚀 Full-Stack Developer | Java, JavaScript, TypeScript & PLM Solutions | Building Scalable Systems
 
 ---
 
